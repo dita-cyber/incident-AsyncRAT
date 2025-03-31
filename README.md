@@ -2,7 +2,7 @@
 
 ![image alt](https://github.com/dita-cyber/incident-AsyncRAT/blob/69df1a142796b4e89f004cac8a2aaa4e5ebd004c/asrat.png)
 
-As a SOC analyst, I recently worked on an incident involving "Execution via PowerShell" that was flagged by CrowdStrike Falcon. The alert was related to AsyncRAT, a stealthy malware variant known for its ability to establish intermittent, non-persistent communication with a C2 server using protocols like HTTP/S or DNS. It often leverages encryption and obfuscation to evade detection, making it a particularly challenging threat to tackle.
+As a SOC analyst, I recently worked on an incident involving "Execution via PowerShell" that was flagged by CrowdStrike Falcon. The alert was related to AsyncRAT, a stealthy malware variant known for its ability to establish intermittent, non-persistent communication with a C2 server using protocols like HTTP/S or DNS. It often leverages encryption and obfuscation to evade detection.
 
 Timeline of events observed:
 
